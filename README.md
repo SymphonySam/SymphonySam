@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sam
 - 😄 Pronouns: any/all 
 - 🌱 I’m currently learning how to code and analyse data.
+- Tableau account: https://public.tableau.com/app/profile/sam.gibbons5947/vizzes
 - 👀 My hobbies include playing music, playing video games, and finding a way to merge these two aspects into one creative hobby.
 - 📫 You can find me on Bluesky @symphonysam. or email: sampgibbons@gmail.com
 - ⚡ Fun fact: I've worked in the beverage making industry for the last 8 years. 
